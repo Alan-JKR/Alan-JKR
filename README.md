@@ -2,6 +2,7 @@
   "name": "NALAN",
   "status": "B.Tech Cybersecurity 2<sup>nd</sup> yr",
   "languages": ["Python", "Java", "PHP", "C", "C++", "HTML", "CSS", "SQL"],
+  "OS":["Windows 11","Ubuntu"],
   "interests": ["Ethical Hacking", "Cybersecurity", "Web Development"],
   "contact": {
     "Email": "nalanpandimadurai@gmail.com",
